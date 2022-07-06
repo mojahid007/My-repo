@@ -1,0 +1,36 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.header{
+    min-height: 50vh;
+    width: 80%;
+        background-image: url(images/donation1.jpg);
+        background-position: center;
+        background-size: cover;
+        position: center;
+        text-align: center;
+        }
+        #white{
+            font-size: 50px;
+            color:white;
+        }
+        #whitesmoke{
+            font-size: 20px;
+            color:whitesmoke;
+        }
+        #anchor{
+            color: aqua;
+            text-decoration: none;
+            font-size: 30px;
+            border: indianred;
+        }
+        #black{
+            color: black;
+            font-size: 50px;
+            text-align: center;
+        }  
+        #donate{
+            text-align: center;
+        }
+
+    
