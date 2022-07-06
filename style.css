@@ -125,7 +125,9 @@ body{
     .donate-room{
         display: flex;
     }
-    
+    .class{
+        text-align: center;
+    }
        
 
     
